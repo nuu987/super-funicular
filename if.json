@@ -179,14 +179,14 @@
               {
                  "name":"redirect",
                  "urls":[
-                    "proxy://do=live&type=txt&ext=aHR0cHM6Ly9ub3RhYnVnLm9yZy9wYW5kcmEvdW5hbWVkL3Jhdy9kZXYvd2F0Y2g="
+                    "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vbnV1OTg3L3N1cGVyLWZ1bmljdWxhci9tYWluL3dhdGNo"
                  ]
               }
            ]
         },
         {
            "name":"live",
-           "url":"https://notabug.org/pandra/unamed/raw/dev/watch",
+           "url":"https://ghproxy.com/https://raw.githubusercontent.com/nuu987/super-funicular/main/watch",
            "type":0,
            "epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
            "ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
