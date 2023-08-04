@@ -25,6 +25,10 @@ fs.readFile('./if.json',
                     console.log("can not find valid lives data, bad if? no replacement performed!")
             });
 
+            // todo: fix epg
+            // 
+            // 
+            
             if_full_data.sites = new_sites_data;
             if_full_data.lives = lives_data;
 
