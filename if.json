@@ -514,7 +514,7 @@
    "name": "live",
    "type": 0,
    "playerType": 1,
-   "url": "https://ghproxy.com/raw.githubusercontent.com/nuu987/super-funicular/main/watch",
+   "url": "https://raw.gitmirror.com/nuu987/super-funicular/main/watch",
    "ua": "okhttp/3.12.13",
    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
    "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -525,7 +525,7 @@
     {
      "name": "redirect",
      "urls": [
-      "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vbnV1OTg3L3N1cGVyLWZ1bmljdWxhci9tYWluL3dhdGNo"
+      "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0bWlycm9yLmNvbS9udXU5ODcvc3VwZXItZnVuaWN1bGFyL21haW4vd2F0Y2g="
      ]
     }
    ]
@@ -851,6 +851,6 @@
   "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
  ],
  "wallpaper": "http://我不是.肥猫.love:63/ppic/feimao.php",
- "warningText": "更新时间：2023/10/25 18:17:23",
+ "warningText": "更新时间：2023/11/3 16:46:11",
  "spider": "http://我不是.肥猫.love:63/Jar/pandaQ230928.jar;md5;02c40490ea14c433b66fcc0ce2f2ed94"
 }

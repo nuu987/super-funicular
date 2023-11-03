@@ -1,7 +1,7 @@
 import fs from 'fs';
 
-const custom_lives_raw = "https://ghproxy.com/raw.githubusercontent.com/nuu987/super-funicular/main/watch";
-const custom_lives_encoded = "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vbnV1OTg3L3N1cGVyLWZ1bmljdWxhci9tYWluL3dhdGNo";
+const custom_lives_raw = "https://raw.gitmirror.com/nuu987/super-funicular/main/watch";
+const custom_lives_encoded = "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0bWlycm9yLmNvbS9udXU5ODcvc3VwZXItZnVuaWN1bGFyL21haW4vd2F0Y2g=";
 
 fs.readFile('./if.json',
     (err, data) => {
