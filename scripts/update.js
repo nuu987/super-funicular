@@ -11,7 +11,7 @@ fs.readFile('./if.json',
 
         (function () {
             var new_sites_data = all_sites_data.filter((ele) => {
-                return !/教学|磁力|课堂|关注|体育|球|搜索|直播|墙|教育|少儿|小说|收音|官源|聚合|哔|玩偶|网盘/.test(ele.name);
+                return !/教学|磁力|课堂|关注|体育|球|搜索|直播|墙|教育|少儿|小说|收音|官源|聚合|哔|玩偶|网盘|商店|音乐|儿童/.test(ele.name);
             })
 
             lives_data.forEach(element => {
