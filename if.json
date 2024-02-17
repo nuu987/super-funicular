@@ -1,24 +1,38 @@
 {
- "spider": "http://like.xn--z7x900a.live:66/jar/PandaQ240207.jar;md5;1A1BE0A2CF5F3FA69253822FB04294C9",
+ "spider": "http://like.xn--z7x900a.live:66/jar/PandaQ240208.jar;md5;888A64F65AAB54892980DED5C6DA9A6E",
  "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
  "sites": [
   {
    "key": "drpy_js_豆瓣",
    "name": "🐼┃公众号┃肥猫宝贝",
    "type": 3,
-   "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+   "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
    "searchable": 1,
    "quickSearch": 0,
    "changeable": 0,
-   "ext": "https://d.kstore.space/download/6296/js/豆瓣推荐.js"
+   "ext": "http://dt.xn--yety82d.love/js/豆瓣推荐.js"
+  },
+  {
+   "key": "csp_绿豆",
+   "name": "🐼┃绿豆┃影视",
+   "type": 3,
+   "api": "csp_Lvdou",
+   "searchable": 1,
+   "quickSearch": 0,
+   "changeable": 0,
+   "playerType": "1",
+   "ext": {
+    "server": "http://s.weixine.net/api.php/app/",
+    "mackey": "6JLF1OWhgEnMexAs|6CrRdTxr2qXj9258"
+   }
   },
   {
    "key": "nangua",
    "name": "🎃┃南瓜┃影视",
    "type": 3,
    "playerType": "2",
-   "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-   "ext": "https://d.kstore.space/download/6296/js/南瓜.js"
+   "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+   "ext": "http://dt.xn--yety82d.love/js/南瓜.js"
   },
   {
    "key": "蜂鸟",
@@ -34,8 +48,8 @@
    "key": "影探",
    "name": " 🕵┃影探┃影视",
    "type": 3,
-   "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-   "ext": "https://d.kstore.space/download/6296/js/yt.js"
+   "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+   "ext": "http://dt.xn--yety82d.love/js/yt.js"
   },
   {
    "key": "忍者",
@@ -104,8 +118,8 @@
    "name": "💐┃Lib┃影视",
    "type": 3,
    "playerType": "1",
-   "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-   "ext": "https://d.kstore.space/download/6296/js/LIBVIO.js"
+   "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+   "ext": "http://dt.xn--yety82d.love/js/LIBVIO.js"
   },
   {
    "key": "FreeOK",
@@ -130,32 +144,32 @@
    "name": " 👗┃骚火┃影视",
    "type": 3,
    "playerType": "2",
-   "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-   "ext": "https://d.kstore.space/download/6296/js/骚火.js"
+   "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+   "ext": "http://dt.xn--yety82d.love/js/骚火.js"
   },
   {
    "key": "爱看影视",
    "name": "❤┃爱看┃影视",
    "type": 3,
    "playerType": "2",
-   "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-   "ext": "https://d.kstore.space/download/6296/js/爱看.js"
+   "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+   "ext": "http://dt.xn--yety82d.love/js/爱看.js"
   },
   {
    "key": "圣城影视",
    "name": "🏰┃圣城┃影视",
    "type": 3,
    "playerType": "2",
-   "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-   "ext": "https://d.kstore.space/download/6296/js/SC1080.js"
+   "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+   "ext": "http://dt.xn--yety82d.love/js/SC1080.js"
   },
   {
    "key": "云播影视",
    "name": "☁️┃云播┃影视",
    "type": 3,
    "playerType": "2",
-   "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-   "ext": "https://d.kstore.space/download/6296/js/TVB云播.js"
+   "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+   "ext": "http://dt.xn--yety82d.love/js/TVB云播.js"
   },
   {
    "key": "新视觉",
@@ -181,24 +195,24 @@
    "name": "🍭┃零七┃影视",
    "type": 3,
    "playerType": "1",
-   "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-   "ext": "https://d.kstore.space/download/6296/js/007.js"
+   "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+   "ext": "http://dt.xn--yety82d.love/js/007.js"
   },
   {
    "key": "低端",
    "name": "🛣┃低端┃影视",
    "type": 3,
    "playerType": "2",
-   "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-   "ext": "https://d.kstore.space/download/6296/js/ddys.js"
+   "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+   "ext": "http://dt.xn--yety82d.love/js/ddys.js"
   },
   {
    "key": "奇优",
    "name": " 🍩┃奇优┃影视",
    "type": 3,
    "playerType": "2",
-   "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-   "ext": "https://d.kstore.space/download/6296/js/奇优.js"
+   "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+   "ext": "http://dt.xn--yety82d.love/js/奇优.js"
   },
   {
    "key": "虎虎",
@@ -213,7 +227,7 @@
    "name": "🥰┃短剧┃视频",
    "type": 3,
    "api": "csp_Panda",
-   "ext": "https://d.kstore.space/download/6296/json/短剧.json",
+   "ext": "http://dt.xn--yety82d.love/json/短剧.json",
    "jar": "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb"
   },
   {
@@ -449,5 +463,5 @@
    ]
   }
  ],
- "warningText": "更新时间：2024/2/7 17:02:18"
+ "warningText": "更新时间：2024/2/17 11:10:07"
 }
